@@ -1,0 +1,2 @@
+# WindowManager
+实现一个可以拖动的控件，如果拖动到可以相应clickable=true的控件上自动响应
